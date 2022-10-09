@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/cover.png</file>
+        <file>imgs/symbol.jpg</file>
+        <file>imgs/favicon.ico</file>
+        <file>imgs/fun.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/stylesheet.qss</file>
+    </qresource>
+</RCC>

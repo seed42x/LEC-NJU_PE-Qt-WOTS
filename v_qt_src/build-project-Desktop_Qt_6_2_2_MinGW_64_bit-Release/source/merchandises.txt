@@ -1,0 +1,3 @@
+ID			Name			UnitPrice			Num			Desc			SellerID			AddedTime			State
+M000			rafsd			213.4			312410			y			U000			2022-03-19			销售中
+M001			rafsd			213.4			312412			y			U000			2022-03-19			销售中

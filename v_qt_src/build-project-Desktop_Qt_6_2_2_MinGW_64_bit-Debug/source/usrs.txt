@@ -1,0 +1,10 @@
+ID			Name			Passwd			Tle			Address			Balance			State
+U000			usrone			1			none			none			26.6			0
+U001			usrtwo			1			none			none			321789			1
+U002			usrthree			1			none			none			0			1
+U003			usrfour			1			none			none			0			1
+U004			tp			123			none			none			0			1
+U005			ti			1			none			none			0			1
+U006			seller			1			none			none			10000			1
+U007			buyer			1			none			none			1.02323e+06			1
+U008			usr			1			none			none			0			1
