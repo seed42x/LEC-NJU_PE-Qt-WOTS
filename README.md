@@ -1,37 +1,51 @@
-# APD_冬奥会交易系统
+# `WOTS(😀<=>😀)`
 
-#### 介绍
-APD proj1
+<p align="center">
+    <a href="#quick-start">🔥Quick Start</a>-
+<!--    <a href="#-Document">📕Document</a>- -->
+    <a href="#contributors">🧑Contributors</a>-
+    <a href="#license">📄License</a>
+</p>
 
-#### 软件架构
-软件架构说明
+<p align="center">
+    <img src="https://img.shields.io/badge/build-passed-green">
+    <img src="https://img.shields.io/badge/test-failing-red">
+    <img src="https://img.shields.io/badge/License-GPL3-green">
+    </br>
+    <img src="https://img.shields.io/badge/Ubuntu-20.04-orange">
+    <img src="https://img.shields.io/badge/Cpp-11-blue">
+    <img src="https://img.shields.io/badge/Qt-greenyellow">
+    <img src="https://img.shields.io/badge/QSS-Any-orange">
+    <img src="https://img.shields.io/badge/gtest-Any-blue">
+</p>
+
+## 🔥Quick Start
+
+The WOTS(Winter Olympics Trading System) is a toy project which implements a P2P trading platform. This project has two version:
+1. Console: run in Linux, locates in `console_v_Framing`, and you can get more information in `console_v_Framing/console_v_tutorial.md`.
+2. Widget: run in Windows, implements by Qt.
+
+The WOTS mainly consists of three parts:
+1. Self actualized MySQL: stores various list, including user information, merchandise information, order information, etc.
+2. Self actualized Calculator: calculates all necessary numbers in the system.
+3. WOTS kernal module: responsible for the business logic of administrators, users, products, and orders.
+
+You can just run `v_qt_easter_egg_src/release_app/WOTS.exe` on Windows to use this toy project.
+
+<p align="center">
+    <img src="readme.asset/demo1.gif" style="zoom:60%;">
+</p>
+
+<p align="center">
+    <img src="readme.asset/demo2.gif" style="zoom:60%;">
+</p>
+
+## 🧑Contributors
+
+[@pawx2](https://github.com/pawx2)
+
+## 📄License
+
+This project is licensed under the [GNU GPL3](./LICENSE).
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)hhh
